@@ -1,7 +1,26 @@
 body {
-background-color: aqua;
+background-color: #ecd8bf;
+text-align: center;
+font-family: 'Playfair Display SC', serif;
+color: rgb(49, 1, 41);
 }
 
+h1 {
+     text-align: center;
+     text-transform: uppercase;
+     font-weight: 900;
+     font-size: 600%;
+    }
+
+    li {
+        list-style-type: none;
+    }
+
+    p {
+        margin: 50px;
+    }
+
 .navbar-light .navbar-brand {
-    color: blue;
+    display: inline-block;
+    text-align: center;
 }                                                                                                                                                 
